@@ -1,7 +1,7 @@
-import ToggleMenuButton from './ToggleMenuButton'
+import Burger from './Burger'
 
-const Header = (props) => <header className="App-header">
-    <ToggleMenuButton />
+const Header = () => <header className="header">
+    <nav className="nav-bar"> <Burger /></nav>
 </header>
 
-export default Box
+export default Header
