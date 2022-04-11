@@ -1,0 +1,9 @@
+https://dummyapi.io/
+
+Me google na ginetai h syndesh chrome giati o firefox exei errors
+kai apotygxanei na syndethei. Epishs prepei na mpeis mesw google kai oxi apo
+pdf giati tote apotygxanei pantoy to firebase na syndethei.
+
+Base Calls Url https://dummyapi.io/data/v1/
+
+app-id header = 625165122c2a87cd5bbfd687
